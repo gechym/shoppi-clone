@@ -253,9 +253,6 @@
     animation: msg-anms ease-in-out 0.3s;
 
 }
-
-
-
 .show-msg:hover .msg{
     display: block;
 }
@@ -281,9 +278,6 @@
     right: 12px; 
                   
 }
-
-
-
 .msg-header{
     
     height: 40px;
@@ -334,8 +328,6 @@
 
 .msg-item-body{
     margin-left: 12px;
-    
-
 }
 
 .name{
@@ -375,11 +367,7 @@
     background-color:#F1F3F4;
 }
 
-
-
-
 /*           search              */
-
 
 .nav-search{
     height: var(--header-with-search-height);

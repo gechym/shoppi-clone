@@ -1,0 +1,39 @@
+{
+    "prod" :[
+        {
+            "id" : 1,
+            "name" : "【VaeGa】Tai Nghe Bluetooth Chụp Tai Không Dây - Âm Thanh Sống Động Chất Lượng Cao - Subwoofer",
+            "price-old" : "1.200.00đ",
+            "price-new" : "999.000.000.000.000đ",
+            "off-percent" : "10%"
+        },
+        {
+            "id" : 1,
+            "name" : "【VaeGa】Tai Nghe Bluetooth Chụp Tai Không Dây - Âm Thanh Sống Động Chất Lượng Cao - Subwoofer",
+            "price-old" : "1.200.00đ",
+            "price-new" : "999.000.000.000.000đ",
+            "off-percent" : "10%"
+        },
+        {
+            "id" : 1,
+            "name" : "【VaeGa】Tai Nghe Bluetooth Chụp Tai Không Dây - Âm Thanh Sống Động Chất Lượng Cao - Subwoofer",
+            "price-old" : "1.200.00đ",
+            "price-new" : "999.000.000.000.000đ",
+            "off-percent" : "10%"
+        },
+        {
+            "id" : 1,
+            "name" : "【VaeGa】Tai Nghe Bluetooth Chụp Tai Không Dây - Âm Thanh Sống Động Chất Lượng Cao - Subwoofer",
+            "price-old" : "1.200.00đ",
+            "price-new" : "999.000.000.000.000đ",
+            "off-percent" : "10%"
+        },
+        {
+            "id" : 1,
+            "name" : "【VaeGa】Tai Nghe Bluetooth Chụp Tai Không Dây - Âm Thanh Sống Động Chất Lượng Cao - Subwoofer",
+            "price-old" : "1.200.00đ",
+            "price-new" : "999.000.000.000.000đ",
+            "off-percent" : "10%"
+        }
+    ]
+}
